@@ -1,3 +1,5 @@
+https://github.com/niothiel/snapchat-python
+
 Snapchat for Python
 ===============
 
