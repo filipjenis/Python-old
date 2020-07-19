@@ -23,7 +23,7 @@ class Snapchat(object):
         'Accept-Language': 'en',
         'Accept-Locale': 'en'
     }
-    SNAPCHAT_VERSION = '9.2.0'  # Snapchat Application Version
+    SNAPCHAT_VERSION = '10.86.5.75'  # Snapchat Application Version
 
     MEDIA_IMAGE = 0  # Media: Image
     MEDIA_VIDEO = 1  # Media: Video
